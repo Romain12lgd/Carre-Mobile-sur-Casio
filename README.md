@@ -3,7 +3,7 @@
 A lightweight Python mini-project built for Casio graphic calculators using the `casioplot` library. This program allows users to smoothly move a square across the calculator screen using the directional pad.
 
 ## 🎯 Objective
-The goal of this program is to freely pilot and navigate a square shape across the screen while exploring real-time graphic coordinates and smooth rendering on hardware constraints.
+The goal of this program is to move around the screen and catch a red square in the minimum number of moves possible, testing your efficiency and navigation skills on the calculator screen.
 
 ## 🕹️ Controls
 - **Arrow Keys (Up, Down, Left, Right)**: Move the square across the screen.
